@@ -1,0 +1,185 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Dapper.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\scopedcss\bundle\ProjetoAspNetAPI01.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Dapper.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\scopedcss\bundle\ProjetoAspNetAPI01.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Dapper.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\scopedcss\bundle\ProjetoAspNetAPI01.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 19 - 09.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Dapper.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\scopedcss\bundle\ProjetoAspNetAPI01.Services.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.genruntimeconfig.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\appsettings.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.exe
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.deps.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Dapper.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.Manifest.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\staticwebassets\ProjetoAspNetAPI01.Services.StaticWebAssets.xml
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\scopedcss\bundle\ProjetoAspNetAPI01.Services.styles.css
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Services.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Services\obj\Debug\net5.0\ProjetoAspNetAPI01.Services.genruntimeconfig.cache

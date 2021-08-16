@@ -1,0 +1,47 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 16 - 02.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 17 - 04.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 20 - 11.08.21\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.deps.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Data\obj\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
