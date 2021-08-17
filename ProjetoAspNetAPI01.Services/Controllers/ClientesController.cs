@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using ProjetoAspNetAPI01.Data.Entities;
 using ProjetoAspNetAPI01.Data.Interfaces;
+using ProjetoAspNetAPI01.Reports.Data;
+using ProjetoAspNetAPI01.Reports.Pdfs;
 using ProjetoAspNetAPI01.Services.Models;
 using System;
 using System.Collections.Generic;
@@ -43,7 +45,7 @@ namespace ProjetoAspNetAPI01.Services.Controllers
                 //retornando mensagem de sucesso!
                 return Ok($"Cliente {cliente.Nome}, cadastrado com sucesso.");
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 //retornando mensagem de erro!
                 //HTTP 500 (Código de erro) -> INTERNAL SERVER ERROR
@@ -59,7 +61,7 @@ namespace ProjetoAspNetAPI01.Services.Controllers
             try
             {
                 //verificar se o id do cliente informado existe no banco de dados
-                if(_clienteRepository.ObterPorId(model.IdCliente) != null)
+                if (_clienteRepository.ObterPorId(model.IdCliente) != null)
                 {
                     //atualizando os dados do cliente
                     var cliente = new Cliente();
@@ -79,7 +81,7 @@ namespace ProjetoAspNetAPI01.Services.Controllers
                         "O cliente informado não está cadastrado no sistema, por favor, verifique o ID enviado.");
                 }
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 //retornando mensagem de erro!
                 //HTTP 500 (Código de erro) -> INTERNAL SERVER ERROR
@@ -100,7 +102,7 @@ namespace ProjetoAspNetAPI01.Services.Controllers
                 //retornar a lista de clientes..
                 return Ok(clientes);
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 //retornando mensagem de erro!
                 //HTTP 500 (Código de erro) -> INTERNAL SERVER ERROR
@@ -120,7 +122,7 @@ namespace ProjetoAspNetAPI01.Services.Controllers
                 var cliente = _clienteRepository.ObterPorId(idCliente);
 
                 //verificar se o cliente foi encontrado
-                if(cliente != null)
+                if (cliente != null)
                 {
                     //excluindo o cliente obtido
                     _clienteRepository.Excluir(cliente);
@@ -134,7 +136,7 @@ namespace ProjetoAspNetAPI01.Services.Controllers
                         "O cliente informado não está cadastrado no sistema, por favor, verifique o ID enviado.");
                 }
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 //retornando mensagem de erro!
                 //HTTP 500 (Código de erro) -> INTERNAL SERVER ERROR
@@ -155,7 +157,7 @@ namespace ProjetoAspNetAPI01.Services.Controllers
                 //retornar os dados do cliente
                 return Ok(cliente);
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 //retornando mensagem de erro!
                 //HTTP 500 (Código de erro) -> INTERNAL SERVER ERROR
@@ -175,9 +177,9 @@ namespace ProjetoAspNetAPI01.Services.Controllers
 
                 //capturar os nomes e datas de clientes cadastrados
                 var dados = clientes.Select(c =>
-                    new 
-                    { 
-                        NomeCliente = c.Nome, 
+                    new
+                    {
+                        NomeCliente = c.Nome,
                         DataCadastro = c.DataCadastro.ToString("dd/MM/yyyy")
                     }).ToList();
 
@@ -188,7 +190,35 @@ namespace ProjetoAspNetAPI01.Services.Controllers
 
                 return Ok(result);
             }
-            catch(Exception e)
+            catch (Exception e)
+            {
+                //retornando mensagem de erro!
+                //HTTP 500 (Código de erro) -> INTERNAL SERVER ERROR
+                return StatusCode(500, $"Ocorreu um erro: {e.Message}");
+            }
+        }
+
+        //método para retornar os dados do relatorio de clientes
+        [HttpGet]
+        [Route("Relatorio/{dataMin}/{dataMax}")]
+        public IActionResult GetRelatorio(DateTime dataMin, DateTime dataMax)
+        {
+            try
+            {
+                //criando o objeto que irá levar os dados para o relatorio
+                var data = new RelatorioClientesData();
+                data.DataGeracao = DateTime.Now; //data do sistema
+                data.Clientes = _clienteRepository.Consultar(dataMin, dataMax);
+                //consulta de clientes do banco de dados
+
+                //gerar o arquivo PDF do relatorio..
+                var report = new ClientesReportPDF();
+                var pdf = report.GerarRelatorio(data);
+
+                //retornar o arquivo para download..
+                return File(pdf, "application/pdf");
+            }
+            catch (Exception e)
             {
                 //retornando mensagem de erro!
                 //HTTP 500 (Código de erro) -> INTERNAL SERVER ERROR
@@ -197,3 +227,5 @@ namespace ProjetoAspNetAPI01.Services.Controllers
         }
     }
 }
+
+

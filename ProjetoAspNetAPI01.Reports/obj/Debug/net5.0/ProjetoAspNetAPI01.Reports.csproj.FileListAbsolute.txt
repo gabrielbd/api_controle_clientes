@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\bin\Debug\net5.0\ProjetoAspNetAPI01.Reports.deps.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\bin\Debug\net5.0\ProjetoAspNetAPI01.Reports.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\bin\Debug\net5.0\ref\ProjetoAspNetAPI01.Reports.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\bin\Debug\net5.0\ProjetoAspNetAPI01.Reports.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\bin\Debug\net5.0\ProjetoAspNetAPI01.Data.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ProjetoAspNetAPI01.Reports.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ProjetoAspNetAPI01.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ProjetoAspNetAPI01.Reports.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ProjetoAspNetAPI01.Reports.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ProjetoAspNetAPI01.Reports.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ProjetoAspNetAPI01.Reports.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ProjetoAspNetAPI01.Reports.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ref\ProjetoAspNetAPI01.Reports.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetAPI01\ProjetoAspNetAPI01.Reports\obj\Debug\net5.0\ProjetoAspNetAPI01.Reports.pdb

@@ -14,6 +14,10 @@ namespace ProjetoAspNetAPI01.Data.Interfaces
         void Excluir(Cliente cliente);
 
         List<Cliente> Consultar();
+        List<Cliente> Consultar(DateTime dataMin, DateTime dataMax);
+
         Cliente ObterPorId(Guid idCliente);
     }
 }
+
+

@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ProjetoAspNetAPI01.Data\ProjetoAspNetAPI01.Data.csproj" />
+    <ProjectReference Include="..\ProjetoAspNetAPI01.Reports\ProjetoAspNetAPI01.Reports.csproj" />
   </ItemGroup>
 
 </Project>

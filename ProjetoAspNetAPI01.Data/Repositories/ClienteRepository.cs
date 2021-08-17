@@ -45,7 +45,7 @@ namespace ProjetoAspNetAPI01.Data.Repositories
                             IDCLIENTE = @IdCliente
                     ";
 
-            using(var connection = new SqlConnection(_connectionstring))
+            using (var connection = new SqlConnection(_connectionstring))
             {
                 connection.Execute(query, cliente);
             }
@@ -91,6 +91,22 @@ namespace ProjetoAspNetAPI01.Data.Repositories
                 return connection
                     .Query<Cliente>(query, new { idCliente })
                     .FirstOrDefault();
+            }
+        }
+
+        public List<Cliente> Consultar(DateTime dataMin, DateTime dataMax)
+        {
+            var query = @"
+                    SELECT * FROM CLIENTE
+                    WHERE DATACADASTRO BETWEEN @dataMin AND @dataMax
+                    ORDER BY NOME
+                ";
+
+            using (var connection = new SqlConnection(_connectionstring))
+            {
+                return connection
+                    .Query<Cliente>(query, new { dataMin, dataMax })
+                    .ToList();
             }
         }
     }
